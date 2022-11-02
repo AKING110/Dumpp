@@ -1,2 +1,2 @@
-import dz
-dz._login()
+import dump
+dump.Main()
